@@ -130,6 +130,10 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'petsget.online@gmail.com'
+<<<<<<< HEAD
 EMAIL_HOST_PASSWORD = 'gpchrtzzeipgcbuk'
 EMAIL_USE_TLS= True
 EMAIL_USE_SSL= False
+=======
+EMAIL_HOST_PASSWORD = 'PetsGet2024'
+>>>>>>> 1baf8065ac4f3616ce0644d08045d47b515619ff
